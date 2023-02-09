@@ -9,6 +9,16 @@
       "publisher": "Bloomsbury",
       "cost": 1299,
       "borrowed": false
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/I/71PpwN9ZsuL._AC_UY218_.jpg",
+      "book_name": "The End of Harry Potter?",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2020",
+      "publisher": "Bloomsbury",
+      "cost": 1499,
+      "borrowed": false
     }
   ]
 }
